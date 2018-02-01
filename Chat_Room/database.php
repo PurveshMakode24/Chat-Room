@@ -1,6 +1,6 @@
 <?php
 //connect to MySql
-$con= mysqli_connect("localhost","root","1234","messenger");
+$con= mysqli_connect("localhost","root","****","messenger"); //password protected
 
 //Test Connnection
 
